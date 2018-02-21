@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "TweetSave extension for chrome",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "TweetSaveのボタンを追加する非公式の拡張機能です。",
+    "description": "The description of the application"
+  }
+}
