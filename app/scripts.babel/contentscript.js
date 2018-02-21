@@ -22,5 +22,5 @@ $('.ProfileTweet-actionList').each(function() {
 
 
 $('button.js-actionTweetSave').on('click', event => {
-    tweetsave($(event.target).parents('li').attr('data-item-id'));
+    tweetsave($(event.target).parents('li').attr('data-item-id') || encodeURIComponent(document.location));
 });
