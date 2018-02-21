@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "TweetSave extension for chrome",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Unofficial google chrome extension of TweetSave. Adds TweetSave button on twitter.",
+    "description": "The description of the application"
+  }
+}
